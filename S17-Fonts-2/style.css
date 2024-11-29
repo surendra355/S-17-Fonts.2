@@ -1,0 +1,79 @@
+/* #heading1{
+font-size: 3rem;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Sixtyfour+Convergence&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Protest+Revolution&family=Sixtyfour+Convergence&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ponnala&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+#viswaksenPic{
+    width: 350px;
+    padding: 30px;
+}
+
+#mechanicRockeyDesc{
+    display: inline-block;
+    width: 800px;
+    height: 400px;
+    overflow: auto;
+    text-align: justify;
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+#mRTitle{  
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-size: 2rem;
+    
+}
+#devaraDesc{
+    font-family: "Ponnala", system-ui;
+    display: inline-block;
+    width: 800px;
+    height: 400px;
+    overflow: auto;
+    text-align: justify;
+}
+#devaraPic{
+    display: inline-block;
+    width: 350px;
+    padding: 30px;
+    
+}
+#devaraTitle{
+    font-family:nandakam;
+    font-size: 4rem;
+}
+@font-face {
+    font-family:nandakam;
+    src: url("./fonts/Nandakam\ Regular.otf");
+}
+#kalkiPic{
+    width: 350px;
+    padding: 30px;
+
+}
+#kalkiTitle{
+    color: brown;
+    font-family: "Yatra One", system-ui;
+}
+#kalkiDesc{
+    width: 800px;
+    height: 400px;
+    display: inline-block;
+    overflow: auto;
+    text-align: justify;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+
+
+}
